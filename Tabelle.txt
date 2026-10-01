@@ -1,0 +1,4 @@
+Name Wert
+A 10
+B 4
+C 7

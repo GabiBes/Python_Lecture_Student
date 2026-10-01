@@ -1,0 +1,4 @@
+Name Wert
+A 50
+B 20
+C 35
